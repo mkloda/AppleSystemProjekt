@@ -1,0 +1,13 @@
+C:\Users\Kłoda\Desktop\InventorySystem1.0\AppleSystem\AppleSystem\bin\Debug\AppleSystem.exe.config
+C:\Users\Kłoda\Desktop\InventorySystem1.0\AppleSystem\AppleSystem\bin\Debug\AppleSystem.exe
+C:\Users\Kłoda\Desktop\InventorySystem1.0\AppleSystem\AppleSystem\bin\Debug\AppleSystem.pdb
+C:\Users\Kłoda\Desktop\InventorySystem1.0\AppleSystem\AppleSystem\obj\Debug\AppleSystem.csprojAssemblyReference.cache
+C:\Users\Kłoda\Desktop\InventorySystem1.0\AppleSystem\AppleSystem\obj\Debug\AppleSystem.Form1.resources
+C:\Users\Kłoda\Desktop\InventorySystem1.0\AppleSystem\AppleSystem\obj\Debug\AppleSystem.frmItems.resources
+C:\Users\Kłoda\Desktop\InventorySystem1.0\AppleSystem\AppleSystem\obj\Debug\AppleSystem.frmSettings.resources
+C:\Users\Kłoda\Desktop\InventorySystem1.0\AppleSystem\AppleSystem\obj\Debug\AppleSystem.frmUsers.resources
+C:\Users\Kłoda\Desktop\InventorySystem1.0\AppleSystem\AppleSystem\obj\Debug\AppleSystem.Properties.Resources.resources
+C:\Users\Kłoda\Desktop\InventorySystem1.0\AppleSystem\AppleSystem\obj\Debug\AppleSystem.csproj.GenerateResource.cache
+C:\Users\Kłoda\Desktop\InventorySystem1.0\AppleSystem\AppleSystem\obj\Debug\AppleSystem.csproj.CopyComplete
+C:\Users\Kłoda\Desktop\InventorySystem1.0\AppleSystem\AppleSystem\obj\Debug\AppleSystem.exe
+C:\Users\Kłoda\Desktop\InventorySystem1.0\AppleSystem\AppleSystem\obj\Debug\AppleSystem.pdb
